@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou o Otavio</h1>
+<h1 align="center">Olá! Eu sou o Otavio</h1>
 
 <p align="center">
   🎓 Estudante de Ciência da Computação <br>
